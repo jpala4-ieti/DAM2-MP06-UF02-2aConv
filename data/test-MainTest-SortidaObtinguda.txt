@@ -1,0 +1,13 @@
+Departaments:
+Departament{id=1, nom='Departament de Tecnologia', empleats=Anna Garcia, Pere Martinez}
+Departament{id=2, nom='Departament de Recursos Humans', empleats=Maria Lopez, Joan Sanchez}
+Empleats:
+Empleat{id=1, nom='Anna Garcia', departament=Departament de Tecnologia}
+Empleat{id=2, nom='Pere Martinez', departament=Departament de Tecnologia}
+Empleat{id=3, nom='Maria Lopez', departament=Departament de Recursos Humans}
+Empleat{id=4, nom='Joan Sanchez', departament=Departament de Recursos Humans}
+Projectes:
+Projecte{id=1, nom='Projecte A', dataInici='2024-01-01', dataFinal='2024-06-01', empleats=Anna Garcia, Maria Lopez}
+Projecte{id=2, nom='Projecte B', dataInici='2024-02-01', dataFinal='2024-07-01', empleats=Pere Martinez, Joan Sanchez}
+Projecte{id=3, nom='Projecte C', dataInici='2024-03-01', dataFinal='2024-08-01', empleats=Anna Garcia, Joan Sanchez}
+Projecte{id=4, nom='Projecte D', dataInici='2024-04-01', dataFinal='2024-09-01', empleats=Pere Martinez, Maria Lopez}
